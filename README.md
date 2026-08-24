@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kritiaggarwal4/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kritiaggarwal4/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0735-asteroid-collision](https://github.com/kritiaggarwal4/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kritiaggarwal4/Leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/kritiaggarwal4/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/kritiaggarwal4/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kritiaggarwal4/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kritiaggarwal4/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0735-asteroid-collision](https://github.com/kritiaggarwal4/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kritiaggarwal4/Leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/kritiaggarwal4/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kritiaggarwal4/Leetcode/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/kritiaggarwal4/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
