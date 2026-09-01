@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kritiaggarwal4/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/kritiaggarwal4/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kritiaggarwal4/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kritiaggarwal4/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/kritiaggarwal4/Leetcode/tree/master/0402-remove-k-digits) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kritiaggarwal4/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kritiaggarwal4/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kritiaggarwal4/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kritiaggarwal4/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kritiaggarwal4/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritiaggarwal4/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kritiaggarwal4/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kritiaggarwal4/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
