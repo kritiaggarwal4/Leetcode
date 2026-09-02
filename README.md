@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kritiaggarwal4/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [1927-sum-game](https://github.com/kritiaggarwal4/Leetcode/tree/master/1927-sum-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kritiaggarwal4/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/kritiaggarwal4/Leetcode/tree/master/0402-remove-k-digits) |
+| [1927-sum-game](https://github.com/kritiaggarwal4/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kritiaggarwal4/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kritiaggarwal4/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kritiaggarwal4/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/kritiaggarwal4/Leetcode/tree/master/0402-remove-k-digits) |
+| [1927-sum-game](https://github.com/kritiaggarwal4/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kritiaggarwal4/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kritiaggarwal4/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Matrix
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritiaggarwal4/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/kritiaggarwal4/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
