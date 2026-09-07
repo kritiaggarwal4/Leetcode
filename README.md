@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kritiaggarwal4/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/kritiaggarwal4/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kritiaggarwal4/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kritiaggarwal4/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kritiaggarwal4/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/kritiaggarwal4/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/kritiaggarwal4/Leetcode/tree/master/0455-assign-cookies) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kritiaggarwal4/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kritiaggarwal4/Leetcode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/kritiaggarwal4/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/kritiaggarwal4/Leetcode/tree/master/0455-assign-cookies) |
 | [1927-sum-game](https://github.com/kritiaggarwal4/Leetcode/tree/master/1927-sum-game) |
