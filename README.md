@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/kritiaggarwal4/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/kritiaggarwal4/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/kritiaggarwal4/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kritiaggarwal4/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Tree
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/kritiaggarwal4/Leetcode/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/kritiaggarwal4/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/kritiaggarwal4/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kritiaggarwal4/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1927-sum-game](https://github.com/kritiaggarwal4/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kritiaggarwal4/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kritiaggarwal4/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
