@@ -225,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kritiaggarwal4/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/kritiaggarwal4/Leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
