@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kritiaggarwal4/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kritiaggarwal4/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kritiaggarwal4/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kritiaggarwal4/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1652-defuse-the-bomb](https://github.com/kritiaggarwal4/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kritiaggarwal4/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/kritiaggarwal4/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/kritiaggarwal4/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1004-max-consecutive-ones-iii](https://github.com/kritiaggarwal4/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kritiaggarwal4/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kritiaggarwal4/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kritiaggarwal4/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kritiaggarwal4/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/kritiaggarwal4/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/kritiaggarwal4/Leetcode/tree/master/0455-assign-cookies) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kritiaggarwal4/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kritiaggarwal4/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kritiaggarwal4/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Simulation
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kritiaggarwal4/Leetcode/tree/master/0455-assign-cookies) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kritiaggarwal4/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kritiaggarwal4/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kritiaggarwal4/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
