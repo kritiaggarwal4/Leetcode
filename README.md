@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kritiaggarwal4/Leetcode/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/kritiaggarwal4/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/kritiaggarwal4/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kritiaggarwal4/Leetcode/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/kritiaggarwal4/Leetcode/tree/master/0078-subsets) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kritiaggarwal4/Leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/kritiaggarwal4/Leetcode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/kritiaggarwal4/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kritiaggarwal4/Leetcode/tree/master/0078-subsets) |
 ## Segment Tree
