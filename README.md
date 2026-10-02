@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kritiaggarwal4/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kritiaggarwal4/Leetcode/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/kritiaggarwal4/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kritiaggarwal4/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kritiaggarwal4/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kritiaggarwal4/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0216-combination-sum-iii](https://github.com/kritiaggarwal4/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kritiaggarwal4/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kritiaggarwal4/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/kritiaggarwal4/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/kritiaggarwal4/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/kritiaggarwal4/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/kritiaggarwal4/Leetcode/tree/master/0402-remove-k-digits) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kritiaggarwal4/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kritiaggarwal4/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/kritiaggarwal4/Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritiaggarwal4/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kritiaggarwal4/Leetcode/tree/master/0079-word-search) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kritiaggarwal4/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Longest Common Subsequence
 |  |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kritiaggarwal4/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/kritiaggarwal4/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kritiaggarwal4/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kritiaggarwal4/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/kritiaggarwal4/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/kritiaggarwal4/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Segment Tree
