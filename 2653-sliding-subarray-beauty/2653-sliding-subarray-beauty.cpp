@@ -2,9 +2,9 @@ class Solution {
 public:
     vector<int> getSubarrayBeauty(vector<int>& nums, int k, int x) {
         int n = nums.size();
-
         vector<int> res(n - k + 1, 0);
-        vector<int> freq(51, 0);
+
+        unordered_map<int, int> freq;
 
         int start = 0;
         int end = 0;
@@ -12,34 +12,32 @@ public:
 
         while (end < n) {
 
-            // Add current element
             if (nums[end] < 0) {
-                freq[nums[end] + 50]++;
+                freq[nums[end]]++;
             }
 
-            // Window is smaller than k
             if (end - start + 1 < k) {
                 end++;
                 continue;
             }
 
-            // Window size == k
+            // find xth smallest negative
             int count = 0;
 
-            for (int value = -50; value <= -1; value++) {
-                count += freq[value + 50];
+            for (int i = -50; i <= -1; i++) {
+                count += freq[i];
 
                 if (count >= x) {
-                    res[index] = value;
+                    res[index] = i;
                     break;
                 }
             }
 
             index++;
 
-            // Remove element going out of window
+            // remove starting element
             if (nums[start] < 0) {
-                freq[nums[start] + 50]--;
+                freq[nums[start]]--;
             }
 
             start++;
