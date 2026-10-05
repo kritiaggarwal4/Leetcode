@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kritiaggarwal4/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/kritiaggarwal4/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0295-find-median-from-data-stream](https://github.com/kritiaggarwal4/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/kritiaggarwal4/Leetcode/tree/master/0455-assign-cookies) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kritiaggarwal4/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kritiaggarwal4/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kritiaggarwal4/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/kritiaggarwal4/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/kritiaggarwal4/Leetcode/tree/master/0455-assign-cookies) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kritiaggarwal4/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kritiaggarwal4/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kritiaggarwal4/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/kritiaggarwal4/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kritiaggarwal4/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
@@ -312,9 +315,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kritiaggarwal4/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kritiaggarwal4/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kritiaggarwal4/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kritiaggarwal4/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
