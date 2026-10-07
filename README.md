@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kritiaggarwal4/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kritiaggarwal4/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/kritiaggarwal4/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/kritiaggarwal4/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/kritiaggarwal4/Leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2653-sliding-subarray-beauty](https://github.com/kritiaggarwal4/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kritiaggarwal4/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -157,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kritiaggarwal4/Leetcode/tree/master/0455-assign-cookies) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kritiaggarwal4/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kritiaggarwal4/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/kritiaggarwal4/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kritiaggarwal4/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kritiaggarwal4/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kritiaggarwal4/Leetcode/tree/master/0735-asteroid-collision) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/kritiaggarwal4/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3498-reverse-degree-of-a-string](https://github.com/kritiaggarwal4/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/kritiaggarwal4/Leetcode/tree/master/1046-last-stone-weight) |
 | [1834-single-threaded-cpu](https://github.com/kritiaggarwal4/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kritiaggarwal4/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/kritiaggarwal4/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/kritiaggarwal4/Leetcode/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
