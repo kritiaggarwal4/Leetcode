@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kritiaggarwal4/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kritiaggarwal4/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kritiaggarwal4/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0128-longest-consecutive-sequence](https://github.com/kritiaggarwal4/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kritiaggarwal4/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/kritiaggarwal4/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/kritiaggarwal4/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kritiaggarwal4/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/kritiaggarwal4/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/kritiaggarwal4/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/kritiaggarwal4/Leetcode/tree/master/0621-task-scheduler) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kritiaggarwal4/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kritiaggarwal4/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kritiaggarwal4/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
