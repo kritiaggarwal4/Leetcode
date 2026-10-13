@@ -1,25 +1,25 @@
 class Solution {
 public:
-    int numOfSubarrays(vector<int>& arr, int k, int threshold) {
-        int n = arr.size();
-        int start =0;
-        int sum =0;
-        int avg;
+    int numOfSubarrays(vector<int>& nums, int k, int threshold) {
+        int n = nums.size();
+        long long sum=0;
+        int left =0;
+        unordered_map<int, int>mp;
         int count =0;
-        for(int end =0;end<n;end++){
-            sum = sum+arr[end]; 
-            //first shrink then check condition
-             
-            if(end-start+1 ==  k){
-                avg = sum/k;
-                if(avg>=threshold){
-                    count++;
+        for(int right =0; right<n; right++){
+            mp[nums[right]]++;
+            sum+=nums[right];
+            if(right-left+1>k){
+                mp[nums[left]]--;
+                if(mp[nums[left]] ==0){
+                    mp.erase(nums[left]);
                 }
-            
-                sum = sum-arr[start];
-                start++;
+                sum-=nums[left];
+                left++;
             }
-            
+            if(right-left+1 ==k && sum/k >=threshold){
+                count++;
+            }
         }
         return count;
     }
