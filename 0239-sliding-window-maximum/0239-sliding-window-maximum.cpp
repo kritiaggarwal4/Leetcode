@@ -5,10 +5,10 @@ public:
       vector<int>ans;
       deque<int>dq;
       for(int i=0;i<n;i++){
-        while(!dq.empty() && dq.front()<=i-k){
+        while(!dq.empty() && dq.front()<=i-k){ //expired indices 
             dq.pop_front();
         }
-        while(!dq.empty() && nums[i]>nums[dq.back()])
+        while(!dq.empty() && nums[i]>=nums[dq.back()]) //remove the smaller corresponding value 
         dq.pop_back();
         dq.push_back(i);
         if(i>=k-1){
