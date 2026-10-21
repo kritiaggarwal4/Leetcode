@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kritiaggarwal4/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kritiaggarwal4/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/kritiaggarwal4/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/kritiaggarwal4/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kritiaggarwal4/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/kritiaggarwal4/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/kritiaggarwal4/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/kritiaggarwal4/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kritiaggarwal4/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/kritiaggarwal4/Leetcode/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/kritiaggarwal4/Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritiaggarwal4/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kritiaggarwal4/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/kritiaggarwal4/Leetcode/tree/master/0200-number-of-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kritiaggarwal4/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kritiaggarwal4/Leetcode/tree/master/0200-number-of-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritiaggarwal4/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Game Theory
 |  |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kritiaggarwal4/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/kritiaggarwal4/Leetcode/tree/master/0200-number-of-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kritiaggarwal4/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Longest Common Subsequence
 |  |
