@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kritiaggarwal4/Leetcode/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/kritiaggarwal4/Leetcode/tree/master/0835-image-overlap) |
 | [0907-sum-of-subarray-minimums](https://github.com/kritiaggarwal4/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/kritiaggarwal4/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/kritiaggarwal4/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/kritiaggarwal4/Leetcode/tree/master/1046-last-stone-weight) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kritiaggarwal4/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kritiaggarwal4/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kritiaggarwal4/Leetcode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/kritiaggarwal4/Leetcode/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/kritiaggarwal4/Leetcode/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritiaggarwal4/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kritiaggarwal4/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kritiaggarwal4/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/kritiaggarwal4/Leetcode/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritiaggarwal4/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Game Theory
 |  |
