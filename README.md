@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kritiaggarwal4/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/kritiaggarwal4/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/kritiaggarwal4/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/kritiaggarwal4/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kritiaggarwal4/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/kritiaggarwal4/Leetcode/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/kritiaggarwal4/Leetcode/tree/master/0733-flood-fill) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/kritiaggarwal4/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/kritiaggarwal4/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/kritiaggarwal4/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/kritiaggarwal4/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/kritiaggarwal4/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0907-sum-of-subarray-minimums](https://github.com/kritiaggarwal4/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/kritiaggarwal4/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kritiaggarwal4/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kritiaggarwal4/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/kritiaggarwal4/Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/kritiaggarwal4/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kritiaggarwal4/Leetcode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/kritiaggarwal4/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/kritiaggarwal4/Leetcode/tree/master/0994-rotting-oranges) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kritiaggarwal4/Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/kritiaggarwal4/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kritiaggarwal4/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kritiaggarwal4/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kritiaggarwal4/Leetcode/tree/master/1020-number-of-enclaves) |
