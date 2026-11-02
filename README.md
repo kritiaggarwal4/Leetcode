@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kritiaggarwal4/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kritiaggarwal4/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/kritiaggarwal4/Leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kritiaggarwal4/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/kritiaggarwal4/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/kritiaggarwal4/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kritiaggarwal4/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kritiaggarwal4/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/kritiaggarwal4/Leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/kritiaggarwal4/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kritiaggarwal4/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/kritiaggarwal4/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kritiaggarwal4/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/kritiaggarwal4/Leetcode/tree/master/1927-sum-game) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/kritiaggarwal4/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kritiaggarwal4/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/kritiaggarwal4/Leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kritiaggarwal4/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/kritiaggarwal4/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/kritiaggarwal4/Leetcode/tree/master/0767-reorganize-string) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kritiaggarwal4/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
